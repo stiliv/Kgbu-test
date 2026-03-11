@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">КБЖУ Калькулятор</string>
+    <string name="input_title">Введите данные</string>
+    <string name="calories_hint">Калории (ккал)</string>
+    <string name="protein_hint">Белки (г)</string>
+    <string name="fat_hint">Жиры (г)</string>
+    <string name="carbs_hint">Углеводы (г)</string>
+    <string name="next_button">Далее</string>
+    <string name="calculate_title">Расчёт</string>
+    <string name="calculate_button">Рассчитать</string>
+    <string name="result_title">Результат</string>
+    <string name="total_calories">Общие калории: %1$s ккал</string>
+    <string name="protein_percentage">Белки: %1$s%%</string>
+    <string name="fat_percentage">Жиры: %1$s%%</string>
+    <string name="carbs_percentage">Углеводы: %1$s%%</string>
+    <string name="back_button">Назад</string>
+    <string name="reset_button">Сбросить</string>
+</resources>
